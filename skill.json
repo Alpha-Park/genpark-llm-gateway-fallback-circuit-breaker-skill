@@ -1,0 +1,15 @@
+{
+  "name": "genpark-llm-gateway-fallback-circuit-breaker-skill",
+  "version": "1.0.0",
+  "description": "Autonomous LLM gateway fallback router, error exponential backoff, and health check circuit breaker.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "circuit-breaker",
+    "gateway",
+    "fallback",
+    "reliability",
+    "genpark",
+    "mcp"
+  ]
+}
